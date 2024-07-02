@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+/*The.C.Programming.Language.2Nd.Ed Prentice.Hall.Brian.W.Kernighan.and.Dennis.M.Ritchie P.12*/
 /* print Fahrenheit-Celsius table
 	for fahr = 0, 20, ..., 300 */
 	
